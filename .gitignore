@@ -1,5 +1,4 @@
-dist/
-node_modules/
-cypress/plugins
-cypress/support
-cypress/videos
+node_modules
+yarn.lock
+package-lock.json
+build
